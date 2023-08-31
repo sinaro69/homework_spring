@@ -1,9 +1,7 @@
 package com.portistad.istad.co.homework_spring_advanced.api.userAccount;
 
-import com.SpringFrameworkHomeworkInstruction.Spring.api.user.UserMapper;
-import com.SpringFrameworkHomeworkInstruction.Spring.api.user.web.UserDto;
-import com.SpringFrameworkHomeworkInstruction.Spring.api.userAccount.web.UserAccountController;
-import com.SpringFrameworkHomeworkInstruction.Spring.api.userAccount.web.UserAccountDto;
+import com.portistad.istad.co.homework_spring_advanced.api.userAccount.web.UserAccountController;
+import com.portistad.istad.co.homework_spring_advanced.api.userAccount.web.UserAccountDto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
 import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.*;

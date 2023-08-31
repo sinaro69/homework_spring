@@ -1,7 +1,8 @@
 package com.portistad.istad.co.homework_spring_advanced.api.user;
 
-import com.SpringFrameworkHomeworkInstruction.Spring.api.user.web.CreateUserDto;
-import com.SpringFrameworkHomeworkInstruction.Spring.api.user.web.UserDto;
+
+import com.portistad.istad.co.homework_spring_advanced.api.user.web.CreateUserDto;
+import com.portistad.istad.co.homework_spring_advanced.api.user.web.UserDto;
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
 

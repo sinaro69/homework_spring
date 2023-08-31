@@ -1,9 +1,10 @@
 package com.portistad.istad.co.homework_spring_advanced.api.userAccount;
 
-import com.SpringFrameworkHomeworkInstruction.Spring.api.account.Account;
-import com.SpringFrameworkHomeworkInstruction.Spring.api.user.User;
-import com.SpringFrameworkHomeworkInstruction.Spring.base.AuditEntity;
+
 import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.portistad.istad.co.homework_spring_advanced.api.account.Account;
+import com.portistad.istad.co.homework_spring_advanced.api.user.User;
+import com.portistad.istad.co.homework_spring_advanced.base.AuditEntity;
 import jakarta.persistence.*;
 import lombok.*;
 

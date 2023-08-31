@@ -1,13 +1,10 @@
 package com.portistad.istad.co.homework_spring_advanced.api.init;
 
-import com.SpringFrameworkHomeworkInstruction.Spring.api.account.Account;
-import com.SpringFrameworkHomeworkInstruction.Spring.api.account.AccountRepository;
-import com.SpringFrameworkHomeworkInstruction.Spring.api.transaction.Transaction;
-import com.SpringFrameworkHomeworkInstruction.Spring.api.transaction.TransactionRepository;
-import com.SpringFrameworkHomeworkInstruction.Spring.api.user.User;
-import com.SpringFrameworkHomeworkInstruction.Spring.api.user.UserRepository;
-import com.SpringFrameworkHomeworkInstruction.Spring.api.userAccount.UserAccount;
-import com.SpringFrameworkHomeworkInstruction.Spring.api.userAccount.UserAccountRepository;
+
+import com.portistad.istad.co.homework_spring_advanced.api.account.AccountRepository;
+import com.portistad.istad.co.homework_spring_advanced.api.transaction.TransactionRepository;
+import com.portistad.istad.co.homework_spring_advanced.api.user.UserRepository;
+import com.portistad.istad.co.homework_spring_advanced.api.userAccount.UserAccountRepository;
 import jakarta.annotation.PostConstruct;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;

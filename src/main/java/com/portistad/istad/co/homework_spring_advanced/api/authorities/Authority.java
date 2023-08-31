@@ -1,6 +1,7 @@
 package com.portistad.istad.co.homework_spring_advanced.api.authorities;
 
-import com.SpringFrameworkHomeworkInstruction.Spring.api.role.Role;
+
+import com.portistad.istad.co.homework_spring_advanced.api.role.Role;
 import jakarta.persistence.*;
 import lombok.*;
 

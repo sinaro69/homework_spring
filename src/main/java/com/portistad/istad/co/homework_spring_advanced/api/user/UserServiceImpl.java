@@ -1,11 +1,12 @@
 package com.portistad.istad.co.homework_spring_advanced.api.user;
 
-import com.SpringFrameworkHomeworkInstruction.Spring.api.account.Account;
-import com.SpringFrameworkHomeworkInstruction.Spring.api.account.AccountModelAssembler;
-import com.SpringFrameworkHomeworkInstruction.Spring.api.user.web.CreateUserDto;
-import com.SpringFrameworkHomeworkInstruction.Spring.api.user.web.UpdateUserDto;
-import com.SpringFrameworkHomeworkInstruction.Spring.api.userAccount.UserAccount;
-import com.SpringFrameworkHomeworkInstruction.Spring.api.userAccount.UserAccountRepository;
+
+import com.portistad.istad.co.homework_spring_advanced.api.account.Account;
+import com.portistad.istad.co.homework_spring_advanced.api.account.AccountModelAssembler;
+import com.portistad.istad.co.homework_spring_advanced.api.user.web.CreateUserDto;
+import com.portistad.istad.co.homework_spring_advanced.api.user.web.UpdateUserDto;
+import com.portistad.istad.co.homework_spring_advanced.api.userAccount.UserAccount;
+import com.portistad.istad.co.homework_spring_advanced.api.userAccount.UserAccountRepository;
 import jakarta.persistence.EntityNotFoundException;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.BeanUtils;

@@ -1,8 +1,9 @@
 package com.portistad.istad.co.homework_spring_advanced.api.user;
 
-import com.SpringFrameworkHomeworkInstruction.Spring.api.account.Account;
-import com.SpringFrameworkHomeworkInstruction.Spring.api.user.web.CreateUserDto;
-import com.SpringFrameworkHomeworkInstruction.Spring.api.user.web.UpdateUserDto;
+
+import com.portistad.istad.co.homework_spring_advanced.api.account.Account;
+import com.portistad.istad.co.homework_spring_advanced.api.user.web.CreateUserDto;
+import com.portistad.istad.co.homework_spring_advanced.api.user.web.UpdateUserDto;
 import org.springframework.hateoas.CollectionModel;
 import org.springframework.hateoas.EntityModel;
 
@@ -23,7 +24,7 @@ public interface UserService {
     void deleteUserByUuid(String uuid);
 
 
-    Account getFindByUser_UuidAndAccount_Uuid(String userUuid,String accountUuid);
+    Account getFindByUser_UuidAndAccount_Uuid(String userUuid, String accountUuid);
 
     CollectionModel<?>  getUserAccountsByUuid(String uuid);
 

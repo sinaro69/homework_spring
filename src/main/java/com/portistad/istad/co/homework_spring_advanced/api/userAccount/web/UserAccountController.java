@@ -1,6 +1,7 @@
 package com.portistad.istad.co.homework_spring_advanced.api.userAccount.web;
 
-import com.SpringFrameworkHomeworkInstruction.Spring.api.userAccount.UserAccountService;
+
+import com.portistad.istad.co.homework_spring_advanced.api.userAccount.UserAccountService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.hateoas.CollectionModel;
 import org.springframework.hateoas.EntityModel;

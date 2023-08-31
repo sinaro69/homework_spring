@@ -1,9 +1,9 @@
 package com.portistad.istad.co.homework_spring_advanced.api.transaction;
 
-import com.SpringFrameworkHomeworkInstruction.Spring.api.account.Account;
+
+import com.portistad.istad.co.homework_spring_advanced.api.account.Account;
 import jakarta.persistence.*;
 import lombok.*;
-import org.hibernate.annotations.Columns;
 import org.springframework.data.annotation.CreatedDate;
 
 import java.time.LocalDateTime;

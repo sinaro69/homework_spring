@@ -1,7 +1,8 @@
 package com.portistad.istad.co.homework_spring_advanced.api.user;
 
-import com.SpringFrameworkHomeworkInstruction.Spring.api.userAccount.UserAccount;
-import com.SpringFrameworkHomeworkInstruction.Spring.api.userRole.UserRole;
+
+import com.portistad.istad.co.homework_spring_advanced.api.userAccount.UserAccount;
+import com.portistad.istad.co.homework_spring_advanced.api.userRole.UserRole;
 import jakarta.persistence.*;
 import lombok.*;
 import org.hibernate.annotations.GenericGenerator;

@@ -1,6 +1,6 @@
 package com.portistad.istad.co.homework_spring_advanced.api.user;
 
-import com.SpringFrameworkHomeworkInstruction.Spring.api.account.Account;
+
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

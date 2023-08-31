@@ -1,7 +1,7 @@
 package com.portistad.istad.co.homework_spring_advanced.api.transaction.web;
 
-import com.SpringFrameworkHomeworkInstruction.Spring.api.transaction.TransactionRepository;
-import com.SpringFrameworkHomeworkInstruction.Spring.api.transaction.TransactionService;
+
+import com.portistad.istad.co.homework_spring_advanced.api.transaction.TransactionService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.HttpStatusCode;

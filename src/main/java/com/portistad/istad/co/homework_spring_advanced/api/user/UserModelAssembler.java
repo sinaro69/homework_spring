@@ -1,7 +1,8 @@
 package com.portistad.istad.co.homework_spring_advanced.api.user;
 
-import com.SpringFrameworkHomeworkInstruction.Spring.api.user.web.UserController;
-import com.SpringFrameworkHomeworkInstruction.Spring.api.user.web.UserDto;
+
+import com.portistad.istad.co.homework_spring_advanced.api.user.web.UserController;
+import com.portistad.istad.co.homework_spring_advanced.api.user.web.UserDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
